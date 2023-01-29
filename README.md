@@ -4,6 +4,7 @@
 Тестирование формы авторизации Личного кабинета Ростелеком https://b2c.passport.rt.ru
 
 Ссылка на требования по проекту -https://docs.google.com/document/d/1gfqiNEX5YYZBXeBQCnAccXyHeYH-COMx/edit?usp=sharing&ouid=111093610372337896591&rtpof=true&sd=true
+
 По заданию тестирования необходимо:
 
 Протестировать требования.
